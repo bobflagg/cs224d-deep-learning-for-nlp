@@ -9,3 +9,5 @@ Natural Language Processing](http://cs224d.stanford.edu/).
   - [GloVe: Global Vectors for Word Representation](http://nlp.stanford.edu/projects/glove/)
   - [Quoc Le and Tomas Mikolov, Distributed Representations of Sentences and Documents](http://arxiv.org/pdf/1405.4053v2.pdf)
   - [Optimizing word2vec in gensim](http://radimrehurek.com/2013/09/word2vec-in-python-part-two-optimizing/)
+  - [Scaling Recurrent Neural Network Language Models](http://arxiv.org/pdf/1502.00512v1.pdf), Will Williams, Niranjani Prasad, David Mrva, Tom Ash, Tony Robinson
+
