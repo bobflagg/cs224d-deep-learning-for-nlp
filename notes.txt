@@ -1,0 +1,5 @@
+-----
+GloVe: Global Vectors for Word Representation 
+Jeffrey Pennington,   Richard Socher,   Christopher D. Manning
+http://nlp.stanford.edu/projects/glove/
+-----
