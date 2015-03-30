@@ -28,3 +28,13 @@ Natural Language Processing](http://cs224d.stanford.edu/).
   
   
 ### Recurrent Neural Networks
+
+### Theano
+
+  - [Keras: Theano-based Deep Learning library](https://github.com/fchollet/keras)
+
+### General
+
+ - [Deep Learning University](http://memkite.com/deep-learning-bibliography/)
+ 
+ - [GloVe - Global Vectors for Word Representation - Pennington, Socher, Manning 2014](http://blog.mdda.net/ai/2014/10/13/GloVe/)
