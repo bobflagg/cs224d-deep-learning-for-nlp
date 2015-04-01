@@ -38,3 +38,9 @@ Natural Language Processing](http://cs224d.stanford.edu/).
  - [Deep Learning University](http://memkite.com/deep-learning-bibliography/)
  
  - [GloVe - Global Vectors for Word Representation - Pennington, Socher, Manning 2014](http://blog.mdda.net/ai/2014/10/13/GloVe/)
+
+### What's Wrong with Deep Learning?
+ - [What's wrong with convolutional nets?](http://techtv.mit.edu/collections/bcs/videos/30698-what-s-wrong-with-convolutional-nets), 2014, Geoffrey Hinton
+ - [Transforming Auto-encoders](http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf), 2011, G. E. Hinton, A. Krizhevsky & S. D. Wang
+ - [Optimizing Neural Networks that Generate Images](http://www.cs.toronto.edu/~tijmen/tijmen_thesis.pdf), 2014, Tiijman Tieleman
+
