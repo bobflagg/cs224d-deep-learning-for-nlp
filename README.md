@@ -5,17 +5,17 @@ Natural Language Processing](http://cs224d.stanford.edu/).
 
 ### Lectures
 
- - Lecture 2: Simple Word Vector representations: word2vec, GloVe [slides](http://cs224d.stanford.edu/lectures/CS224d-Lecture2.pdf) [video](https://www.youtube.com/watch?v=T8tQZChniMk)
+ - Lecture 2: Simple Word Vector representations: word2vec, GloVe [[slides]](http://cs224d.stanford.edu/lectures/CS224d-Lecture2.pdf) [[video]](https://www.youtube.com/watch?v=T8tQZChniMk)
   - [GloVe: Global Vectors for Word Representation](http://nlp.stanford.edu/projects/glove/)
-  - [word2vec](https://code.google.com/p/word2vec/)
-  - [Word2vec Tutorial](http://radimrehurek.com/2014/02/word2vec-tutorial), 2014, Radim Řehůřek
-  - [Making sense of word2vec](http://radimrehurek.com/2014/12/making-sense-of-word2vec/)
-  - [Optimizing word2vec in gensim](http://radimrehurek.com/2013/09/word2vec-in-python-part-two-optimizing/)
   - [A GloVe implementation in Python - foldl](http://www.foldl.me/2014/glove-python/)
-
+  - [word2vec](https://code.google.com/p/word2vec/)
+  - [Making sense of word2vec](http://radimrehurek.com/2014/12/making-sense-of-word2vec/)
+  - [Improving Distributional Similarity with Lessons Learned from Word Embeddings](https://levyomer.files.wordpress.com/2015/03/improving-distributional-similarity-tacl-2015.pdf), Omer Levy, Yoav Goldberg, and Ido Dagan. TACL 2015.
 
 ## Other Resources
   - [Getting Started with Word2Vec and GloVe](http://textminingonline.com/getting-started-with-word2vec-and-glove)
+  - [Word2vec Tutorial](http://radimrehurek.com/2014/02/word2vec-tutorial), 2014, Radim Řehůřek
+  - [Optimizing word2vec in gensim](http://radimrehurek.com/2013/09/word2vec-in-python-part-two-optimizing/)
 
 #### word2vec
   - [word2vec explained: deriving Mikolov et al.'s negative-sampling word-embedding method](http://www.cs.bgu.ac.il/~yoavg/publications/negative-sampling.pdf), 2013, Yoav Goldberg and Omer Levy
