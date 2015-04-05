@@ -17,23 +17,16 @@ Natural Language Processing](http://cs224d.stanford.edu/).
   - [Optimizing word2vec in gensim](http://radimrehurek.com/2013/09/word2vec-in-python-part-two-optimizing/)
   - [A GloVe implementation in Python - foldl](http://www.foldl.me/2014/glove-python/)
 
-#### word2vec
-  - [word2vec explained: deriving Mikolov et al.'s negative-sampling word-embedding method](http://www.cs.bgu.ac.il/~yoavg/publications/negative-sampling.pdf), 2013, Yoav Goldberg and Omer Levy
-  - [word2vec](http://www.reddit.com/r/MachineLearning/comments/30m0eb/what_is_the_state_of_the_art_in_language_modeling/)
-
-  - Tomas Mikolov, Kai Chen, Greg Corrado, and Jeffrey Dean. Efficient Estimation of Word Representations in Vector Space. In Proceedings of Workshop at ICLR, 2013.
-  - Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, and Jeffrey Dean, Distributed Representations of Words and Phrases and their Compositionality. In Proceedings of NIPS, 2013.
-  - [Embedding-Based Word Similarity](http://irsrv2.cs.biu.ac.il:9998/?word=machine)
-
-
-#### GloVe
-  - [GloVe: Global Vectors for Word Representation](http://nlp.stanford.edu/projects/glove/)
-  - [Getting Started with Word2Vec and GloVe](http://textminingonline.com/getting-started-with-word2vec-and-glove)
+#### Bleeding Edge
+  - [When Are Tree Structures Necessary for Deep Learning of Representations?](http://arxiv.org/abs/1503.00185f), 2015, Jiwei Li, Dan Jurafsky, Eudard Hovy
   
 #### Extensions
   - [Scaling Recurrent Neural Network Language Models](http://arxiv.org/pdf/1502.00512v1.pdf), Will Williams, Niranjani Prasad, David Mrva, Tom Ash, Tony Robinson
   - [Embedding-Based Word Similarity](http://irsrv2.cs.biu.ac.il:9998/?word=machine)
   - [Linguistic Regularities in Sparse and Explicit Word Representations](http://www.cs.bgu.ac.il/~yoavg/publications/conll2014analogies.pdf), 2014, Omer Levy and Yoav Goldberg
+  - [word2vec](http://www.reddit.com/r/MachineLearning/comments/30m0eb/what_is_the_state_of_the_art_in_language_modeling/)
+  - [Embedding-Based Word Similarity](http://irsrv2.cs.biu.ac.il:9998/?word=machine)
+  - [Getting Started with Word2Vec and GloVe](http://textminingonline.com/getting-started-with-word2vec-and-glove)
   
   
 ### Recurrent Neural Networks
