@@ -5,3 +5,25 @@ http://nlp.stanford.edu/projects/glove/
 -----
 MarkUp Editor
 http://dillinger.io/
+
+-----
+conda search wsgiref
+conda create -n cs224d --file requirements-conda.txt
+conda remove -n cs224d --all
+source activate cs224d
+source deactivate
+pip install terminado
+
+-----
+cd to root of your working copy of a repository, then execute the following:
+
+> git config credential.helper store
+> git pull
+
+you will be asked for your password and it will be stored so you should not need
+
+to provide it again.
+
+
+
+
