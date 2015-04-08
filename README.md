@@ -12,8 +12,9 @@ Natural Language Processing](http://cs224d.stanford.edu/).
  - Lecture 3: Advanced word vector representations: language models, softmax, single layer networks [[slides]](http://cs224d.stanford.edu/lectures/CS224d-Lecture3.pdf) [[video]](https://www.youtube.com/watch?v=T1j2Q9_FgTM%22)
   - [Distributed Representations of Words and Phrases and their Compositionality](http://nlp.stanford.edu/projects/glove/). Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, and Jeffrey Dean. In Proceedings of NIPS, 2013.
   - [GloVe: Global Vectors for Word Representation](http://nlp.stanford.edu/projects/glove/glove.pdf). Jeffrey Pennington, Richard Socher, Christopher D. Manning. In Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing.
+  - [The WordSimilarity-353 Test Collection](http://www.cs.technion.ac.il/~gabr/resources/data/wordsim353/)
 
-  - [Making sense of word2vec](http://radimrehurek.com/2014/12/making-sense-of-word2vec/)
+
   - [Improving Distributional Similarity with Lessons Learned from Word Embeddings](https://levyomer.files.wordpress.com/2015/03/improving-distributional-similarity-tacl-2015.pdf), Omer Levy, Yoav Goldberg, and Ido Dagan. TACL 2015.
 
 ## Other Resources
