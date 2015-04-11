@@ -10,7 +10,7 @@ Natural Language Processing](http://cs224d.stanford.edu/).
   - [GloVe: Global Vectors for Word Representation](http://nlp.stanford.edu/projects/glove/)
 
  - Lecture 3: Advanced word vector representations: language models, softmax, single layer networks [[slides]](http://cs224d.stanford.edu/lectures/CS224d-Lecture3.pdf) [[video]](https://www.youtube.com/watch?v=T1j2Q9_FgTM%22)
-  - [Distributed Representations of Words and Phrases and their Compositionality](http://nlp.stanford.edu/projects/glove/). Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, and Jeffrey Dean. In Proceedings of NIPS, 2013.
+  - [Distributed Representations of Words and Phrases and their Compositionality](http://arxiv.org/pdf/1310.4546.pdf). Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, and Jeffrey Dean. In Proceedings of NIPS, 2013.
   - [GloVe: Global Vectors for Word Representation](http://nlp.stanford.edu/projects/glove/glove.pdf). Jeffrey Pennington, Richard Socher, Christopher D. Manning. In Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing.
   - [Improving Word Representations via Global Context and Multiple Word Prototypes](http://www.aclweb.org/anthology/P12-1092). Eric H. Huang, Richard Socher, Christopher D. Manning, Andrew Y. Ng. 2012.
   - [The WordSimilarity-353 Test Collection](http://www.cs.technion.ac.il/~gabr/resources/data/wordsim353/)
